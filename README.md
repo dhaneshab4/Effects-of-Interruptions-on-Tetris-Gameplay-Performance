@@ -4,7 +4,7 @@
 This project investigates the effects of auditory and visual interruptions on gameplay performance in Tetris. Conducted with 64 participants, the study aims to analyze whether different types of interruptions significantly affect Tetris scores.
 
 ### Experimental Hypothesis
-**H1**: There is a statistically significant difference in the effect of visual interruptions and audio interruptions on participants' Tetris gameplay performance.
+ There is a statistically significant difference in the effect of visual interruptions and audio interruptions on participants' Tetris gameplay performance.
 
 ## Data Collection
 The dataset (`tetris.csv`) contains scores recorded automatically by the game, with scores ranging from 0 (lowest) to 100 (highest). Participants were divided into two groups based on the type of interruption experienced during gameplay:
