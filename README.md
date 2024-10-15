@@ -1,4 +1,4 @@
-# Project Title: Interrupting Tetris: Investigating the Impact of Sound and Visual Distraction
+# Interrupting Tetris: Investigating the Impact of Sound and Visual Distraction
 
 ## Overview
 This project investigates the effects of auditory and visual interruptions on gameplay performance in Tetris. Conducted with 64 participants, the study aims to analyze whether different types of interruptions significantly affect Tetris scores.
